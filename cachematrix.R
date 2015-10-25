@@ -1,5 +1,3 @@
-#tes 
-
 ## Like the example for makeVector, a function is defined and 
 ## assigned to makeCacheMatrix where x is a matrix
 
@@ -35,5 +33,3 @@ cacheSolve <- function(x, ...) {
   x$setInverse(flip)
   flip
 }
-
-#1
